@@ -8,7 +8,11 @@ Module_7_SQL
 
 - In the coming years, it is expected that over 90,000 employees could retire from the company. 
 - Of those 90,000 employees, their titles are grouped into the below categories. 
-![Alt text](Image URL)
+![Alt text](https://github.com/Austin-Cyr/Pewlett-Hackard-Analysis/blob/main/Retiring_Titles_Summary.PNG)
+
+- Only certain employees would be a good fit to be a part of the mentorship program based upon their seniority with the company.
+- Just over 1,500 employees grouped in the titles would be a good fit to be mentors based upon their seniority with the company.
+![Alt text](
 
 
 
